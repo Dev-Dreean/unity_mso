@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 152.3 514.8">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #b8f5ff;
+        isolation: isolate;
+        opacity: .4;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #12373f;
+      }
+
+      .st3 {
+        fill: #878787;
+      }
+
+      .st4 {
+        fill: maroon;
+      }
+
+      .st5 {
+        fill: #325a64;
+      }
+    </style>
+  </defs>
+  <g id="Tower">
+    <polygon class="st5" points="138.9 291.4 17.5 291.4 17.5 362 17.5 448.5 138.9 448.5 138.9 291.4"/>
+    <circle class="st5" cx="78.1" cy="453.9" r="60.9"/>
+    <circle class="st5" cx="78.1" cy="443.1" r="60.9"/>
+    <path d="M94.7,513.3c-10.5,2-21.6,1.9-33.2,0v-52.1c0-9.2,7.4-16.6,16.6-16.6h0c9.2,0,16.6,7.4,16.6,16.6v52.1Z"/>
+    <path class="st2" d="M152.3,320.9c0,18.5-33.3,33.6-74.4,33.6S3.4,339.4,3.4,320.9s74.4-142.6,74.4-142.6c0,0,74.4,124,74.4,142.6h0Z"/>
+    <path class="st2" d="M40.2,382c-4.2-1.5-8.5-3.1-11.5-5.6l-.2-9c3.3,2.1,7.2,3.9,11.5,5.7,0,0,.2,8.9.2,8.9Z"/>
+    <path class="st2" d="M51.9,438.8c-4.2-1.5-8.5-3.1-11.5-5.6l-.2-9c3.3,2.1,7.2,3.9,11.5,5.7l.2,8.9Z"/>
+    <path class="st2" d="M119.5,402c4.8-1.4,8.9-3.1,11.7-5.1v-9.4c-3.6,2.7-7.4,5-11.5,5.7l-.2,8.9h0Z"/>
+    <path class="st2" d="M110.5,451.9c4.8-1.4,8.8-3.1,11.7-5.1v-9.4c-3.7,2.7-7.4,5-11.5,5.7l-.2,8.9Z"/>
+  </g>
+  <g id="Book">
+    <circle class="st0" cx="75.4" cy="75.4" r="75.4"/>
+    <rect class="st4" x="49.1" y="30.5" width="51" height="105.1" rx="14.7" ry="14.7" transform="translate(-16.2 148) rotate(-83.7)"/>
+    <rect class="st1" x="27.1" y="48.9" width="49.1" height="48.6" rx="7.7" ry="7.7" transform="translate(-26.9 116.5) rotate(-83.7)"/>
+    <rect class="st1" x="75.4" y="54.3" width="49.1" height="48.7" rx="7.7" ry="7.7" transform="translate(10.8 169.3) rotate(-83.7)"/>
+    <path class="st3" d="M40.5,57.2l25.5,2.8c1.1.1,1.9,1.1,1.8,2.2h0c-.1,1.1-1.1,1.9-2.2,1.8l-25.5-2.8c-1.1-.1-1.9-1.1-1.8-2.2h0c.1-1.1,1.1-1.9,2.2-1.8Z"/>
+    <path class="st3" d="M51.7,58h0c1.1,0,2,.9,2,2v25.7c0,1.1-.9,2-2,2h0c-1.1,0-2-.9-2-2v-25.7c0-1.1.9-2,2-2Z" transform="translate(-26.4 116.1) rotate(-83.7)"/>
+    <rect class="st3" x="48.3" y="70.1" width="4" height="29.7" rx="2" ry="2" transform="translate(-39.7 125.6) rotate(-83.7)"/>
+    <rect class="st3" x="97.4" y="75.6" width="4" height="29.7" rx="2" ry="2" transform="translate(-1.5 179.2) rotate(-83.7)"/>
+    <rect class="st3" x="98.8" y="63.4" width="4" height="29.7" rx="2" ry="2" transform="translate(11.9 169.8) rotate(-83.7)"/>
+    <rect class="st3" x="100.1" y="51.2" width="4" height="29.7" rx="2" ry="2" transform="translate(25.2 160.3) rotate(-83.7)"/>
+  </g>
+</svg>

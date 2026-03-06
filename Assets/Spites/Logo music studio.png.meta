@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 1f4587c8187997746b65826b670e81f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8633962803971926315
+    second: Logo music studio_0
+  - first:
+      213: -1221737316608113018
+    second: Logo music studio_1
+  - first:
+      213: 3183547031418987428
+    second: Logo music studio_2
+  - first:
+      213: -8492439248788025558
+    second: Logo music studio_3
+  - first:
+      213: -641346777851426552
+    second: Logo music studio_4
+  - first:
+      213: 8530901057922740341
+    second: Logo music studio_5
+  - first:
+      213: 8003909328951263549
+    second: Logo music studio_6
+  - first:
+      213: -2286796848971280970
+    second: Logo music studio_7
+  - first:
+      213: 1942997532065914882
+    second: Logo music studio_8
+  - first:
+      213: -6221578936873438446
+    second: Logo music studio_9
+  - first:
+      213: -9181033959572797845
+    second: Logo music studio_10
+  - first:
+      213: 6533753578446282468
+    second: Logo music studio_11
+  - first:
+      213: -1349705283249229840
+    second: Logo music studio_12
+  - first:
+      213: 4954831546510131577
+    second: Logo music studio_13
+  - first:
+      213: -8114001764040016592
+    second: Logo music studio_14
+  - first:
+      213: -8642465656914109511
+    second: Logo music studio_15
+  - first:
+      213: -7711087283532708313
+    second: Logo music studio_16
+  - first:
+      213: -6234354541284966789
+    second: Logo music studio_17
+  - first:
+      213: 8004435452598466755
+    second: Logo music studio_18
+  - first:
+      213: 4672986604099427264
+    second: Logo music studio_19
+  - first:
+      213: 1789082145135266021
+    second: Logo music studio_20
+  - first:
+      213: -9175877321774149588
+    second: Logo music studio_21
+  - first:
+      213: -4254873558550973548
+    second: Logo music studio_22
+  - first:
+      213: -6592799242806590140
+    second: Logo music studio_23
+  - first:
+      213: 488046186105936954
+    second: Logo music studio_24
+  - first:
+      213: -6447307402458879088
+    second: Logo music studio_25
+  - first:
+      213: -3513943017474932569
+    second: Logo music studio_26
+  - first:
+      213: -3243162759746091488
+    second: Logo music studio_27
+  - first:
+      213: -4715204461476732201
+    second: Logo music studio_28
+  - first:
+      213: 8819770364131802979
+    second: Logo music studio_29
+  - first:
+      213: 984129676113829190
+    second: Logo music studio_30
+  - first:
+      213: 3346969046101612982
+    second: Logo music studio_31
+  - first:
+      213: -3261188224591384279
+    second: Logo music studio_32
+  - first:
+      213: 1640653963780034388
+    second: Logo music studio_33
+  - first:
+      213: -176133235072456538
+    second: Logo music studio_34
+  - first:
+      213: -1585756513028836512
+    second: Logo music studio_35
+  - first:
+      213: 5452629672025857655
+    second: Logo music studio_36
+  - first:
+      213: 1768375593823972634
+    second: Logo music studio_37
+  - first:
+      213: -3644232260052798342
+    second: Logo music studio_38
+  - first:
+      213: -2770612385127677568
+    second: Logo music studio_39
+  - first:
+      213: -2683329192361868809
+    second: Logo music studio_40
+  - first:
+      213: 2136485753888480612
+    second: Logo music studio_41
+  - first:
+      213: 8191041648923565450
+    second: Logo music studio_42
+  - first:
+      213: -5650205575026730114
+    second: Logo music studio_43
+  - first:
+      213: 3126020468430813854
+    second: Logo music studio_44
+  - first:
+      213: -3244424195240688412
+    second: Logo music studio_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo music studio_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 399
+        width: 114
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6515113900e2880800000000000000
+      internalID: -8633962803971926315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 508
+        width: 358
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6860cb232648b0fe0800000000000000
+      internalID: -1221737316608113018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 510
+        width: 197
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a36a7d682b3e2c20800000000000000
+      internalID: 3183547031418987428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_3
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 510
+        width: 105
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f87638f7bc42a80800000000000000
+      internalID: -8492439248788025558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_4
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 513
+        width: 67
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8090358e08a7917f0800000000000000
+      internalID: -641346777851426552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_5
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 510
+        width: 188
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5703d734059d36670800000000000000
+      internalID: 8530901057922740341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 266
+        width: 331
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31439ec029931f60800000000000000
+      internalID: 8003909328951263549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 234
+        width: 100
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd859fb16aa340e0800000000000000
+      internalID: -2286796848971280970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 238
+        width: 163
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200ef3206f9e6fa10800000000000000
+      internalID: 1942997532065914882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_9
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 234
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2133b959be288a9a0800000000000000
+      internalID: -6221578936873438446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_10
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 238
+        width: 194
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b668dd8c14a669080800000000000000
+      internalID: -9181033959572797845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_11
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 238
+        width: 63
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee5a35234e8caa50800000000000000
+      internalID: 6533753578446282468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_12
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 234
+        width: 199
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff26782232e44de0800000000000000
+      internalID: -1349705283249229840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 51
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c2ab2a0913c440800000000000000
+      internalID: 4954831546510131577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 96
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d708ba266456f80800000000000000
+      internalID: -8114001764040016592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 99
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb1f18564bcf0880800000000000000
+      internalID: -8642465656914109511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 50
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726400188f6bcf490800000000000000
+      internalID: -7711087283532708313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_17
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 96
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ebdd2639f1b79a0800000000000000
+      internalID: -6234354541284966789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_18
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 50
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8bca382a7751f60800000000000000
+      internalID: 8004435452598466755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_19
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5181de88c9d040800000000000000
+      internalID: 4672986604099427264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 50
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e808c66bb814d810800000000000000
+      internalID: 1789082145135266021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 50
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20d615113cb8a080800000000000000
+      internalID: -9175877321774149588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 51
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493fd52ba07a3f4c0800000000000000
+      internalID: -4254873558550973548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4458c01d40ca184a0800000000000000
+      internalID: -6592799242806590140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_24
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 50
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c14d4ab63e5c600800000000000000
+      internalID: 488046186105936954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 40
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b21b6a3109686a0800000000000000
+      internalID: -6447307402458879088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 50
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0417a7177fb3fc0800000000000000
+      internalID: -3513943017474932569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_27
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 51
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0260f8c27a8fdf2d0800000000000000
+      internalID: -3243162759746091488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_28
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 50
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2a756468a309eb0800000000000000
+      internalID: -4715204461476732201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_29
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 34
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ff792ca6e166a70800000000000000
+      internalID: 8819770364131802979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_30
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 50
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d5fade9b458ad00800000000000000
+      internalID: 984129676113829190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 50
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b95d1b4d92d27e20800000000000000
+      internalID: 3346969046101612982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_32
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 51
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9213b87969eedb2d0800000000000000
+      internalID: -3261188224591384279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_33
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 35
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f02766616c4c610800000000000000
+      internalID: 1640653963780034388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_34
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 50
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8ad5281cf3e8df0800000000000000
+      internalID: -176133235072456538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_35
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 50
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06377a46ad24ef9e0800000000000000
+      internalID: -1585756513028836512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_36
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 51
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e1bd42cc1abab40800000000000000
+      internalID: 5452629672025857655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_37
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 50
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d295bbb388a8810800000000000000
+      internalID: 1768375593823972634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_38
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 50
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74b88441161d6dc0800000000000000
+      internalID: -3644232260052798342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_39
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 50
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081ca2e07becc89d0800000000000000
+      internalID: -2770612385127677568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_40
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 50
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1c5d10156e2cad0800000000000000
+      internalID: -2683329192361868809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_41
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 50
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d943c397256ad10800000000000000
+      internalID: 2136485753888480612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_42
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 50
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd4805bfc6ca170800000000000000
+      internalID: 8191041648923565450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_43
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 34
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b999037ff6691b0800000000000000
+      internalID: -5650205575026730114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_44
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 50
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a3b6dbd0bd16b20800000000000000
+      internalID: 3126020468430813854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo music studio_45
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 51
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e40ff5526d79f2d0800000000000000
+      internalID: -3244424195240688412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logo music studio_0: -8633962803971926315
+      Logo music studio_1: -1221737316608113018
+      Logo music studio_10: -9181033959572797845
+      Logo music studio_11: 6533753578446282468
+      Logo music studio_12: -1349705283249229840
+      Logo music studio_13: 4954831546510131577
+      Logo music studio_14: -8114001764040016592
+      Logo music studio_15: -8642465656914109511
+      Logo music studio_16: -7711087283532708313
+      Logo music studio_17: -6234354541284966789
+      Logo music studio_18: 8004435452598466755
+      Logo music studio_19: 4672986604099427264
+      Logo music studio_2: 3183547031418987428
+      Logo music studio_20: 1789082145135266021
+      Logo music studio_21: -9175877321774149588
+      Logo music studio_22: -4254873558550973548
+      Logo music studio_23: -6592799242806590140
+      Logo music studio_24: 488046186105936954
+      Logo music studio_25: -6447307402458879088
+      Logo music studio_26: -3513943017474932569
+      Logo music studio_27: -3243162759746091488
+      Logo music studio_28: -4715204461476732201
+      Logo music studio_29: 8819770364131802979
+      Logo music studio_3: -8492439248788025558
+      Logo music studio_30: 984129676113829190
+      Logo music studio_31: 3346969046101612982
+      Logo music studio_32: -3261188224591384279
+      Logo music studio_33: 1640653963780034388
+      Logo music studio_34: -176133235072456538
+      Logo music studio_35: -1585756513028836512
+      Logo music studio_36: 5452629672025857655
+      Logo music studio_37: 1768375593823972634
+      Logo music studio_38: -3644232260052798342
+      Logo music studio_39: -2770612385127677568
+      Logo music studio_4: -641346777851426552
+      Logo music studio_40: -2683329192361868809
+      Logo music studio_41: 2136485753888480612
+      Logo music studio_42: 8191041648923565450
+      Logo music studio_43: -5650205575026730114
+      Logo music studio_44: 3126020468430813854
+      Logo music studio_45: -3244424195240688412
+      Logo music studio_5: 8530901057922740341
+      Logo music studio_6: 8003909328951263549
+      Logo music studio_7: -2286796848971280970
+      Logo music studio_8: 1942997532065914882
+      Logo music studio_9: -6221578936873438446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
